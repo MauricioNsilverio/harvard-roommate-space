@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/harvard-roommate-space/static/css/main.3ba0b934.chunk.css",
-    "main.js": "/harvard-roommate-space/static/js/main.df4cccdf.chunk.js",
-    "main.js.map": "/harvard-roommate-space/static/js/main.df4cccdf.chunk.js.map",
+    "main.css": "/harvard-roommate-space/static/css/main.758fdff5.chunk.css",
+    "main.js": "/harvard-roommate-space/static/js/main.87c44f0e.chunk.js",
+    "main.js.map": "/harvard-roommate-space/static/js/main.87c44f0e.chunk.js.map",
     "runtime-main.js": "/harvard-roommate-space/static/js/runtime-main.54d62de2.js",
     "runtime-main.js.map": "/harvard-roommate-space/static/js/runtime-main.54d62de2.js.map",
-    "static/js/2.861963ad.chunk.js": "/harvard-roommate-space/static/js/2.861963ad.chunk.js",
-    "static/js/2.861963ad.chunk.js.map": "/harvard-roommate-space/static/js/2.861963ad.chunk.js.map",
+    "static/js/2.74717dd3.chunk.js": "/harvard-roommate-space/static/js/2.74717dd3.chunk.js",
+    "static/js/2.74717dd3.chunk.js.map": "/harvard-roommate-space/static/js/2.74717dd3.chunk.js.map",
     "index.html": "/harvard-roommate-space/index.html",
-    "precache-manifest.7f9d3d8b9636fd11d99f3e7584460db8.js": "/harvard-roommate-space/precache-manifest.7f9d3d8b9636fd11d99f3e7584460db8.js",
+    "precache-manifest.d91a21d7e432d82973e331f4953ccadb.js": "/harvard-roommate-space/precache-manifest.d91a21d7e432d82973e331f4953ccadb.js",
     "service-worker.js": "/harvard-roommate-space/service-worker.js",
-    "static/css/main.3ba0b934.chunk.css.map": "/harvard-roommate-space/static/css/main.3ba0b934.chunk.css.map",
-    "static/js/2.861963ad.chunk.js.LICENSE": "/harvard-roommate-space/static/js/2.861963ad.chunk.js.LICENSE",
+    "static/css/main.758fdff5.chunk.css.map": "/harvard-roommate-space/static/css/main.758fdff5.chunk.css.map",
+    "static/js/2.74717dd3.chunk.js.LICENSE": "/harvard-roommate-space/static/js/2.74717dd3.chunk.js.LICENSE",
     "static/media/avatar.JPG": "/harvard-roommate-space/static/media/avatar.4b1631a7.JPG",
-    "static/media/harvard.png": "/harvard-roommate-space/static/media/harvard.35702e26.png"
+    "static/media/harvard.png": "/harvard-roommate-space/static/media/harvard.35702e26.png",
+    "static/media/johnharvard.jpeg": "/harvard-roommate-space/static/media/johnharvard.5c6521f5.jpeg",
+    "static/media/markavatar.jpeg": "/harvard-roommate-space/static/media/markavatar.ca17fe3d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.54d62de2.js",
-    "static/js/2.861963ad.chunk.js",
-    "static/css/main.3ba0b934.chunk.css",
-    "static/js/main.df4cccdf.chunk.js"
+    "static/js/2.74717dd3.chunk.js",
+    "static/css/main.758fdff5.chunk.css",
+    "static/js/main.87c44f0e.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/harvard-roommate-space/precache-manifest.7f9d3d8b9636fd11d99f3e7584460db8.js"
+  "/harvard-roommate-space/precache-manifest.d91a21d7e432d82973e331f4953ccadb.js"
 );
 
 self.addEventListener('message', (event) => {
