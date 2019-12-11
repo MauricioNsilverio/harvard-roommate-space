@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 
 import avatar from '../assets/images/avatar.JPG';
+import johnharvard from '../assets/images/johnharvard.jpeg';
+import markavatar from '../assets/images/markavatar.jpeg';
 
 import Post from './Post';
 
@@ -48,11 +50,32 @@ class PostList extends Component {
           {
             id: 1,
             author: {
+              name: 'John Harvard',
+              avatar: johnharvard
+            },
+            content: "Don't forget to check out my statue and touch my feet for good luck... BUT DON'T DARE CALLING ME THE '3 LIES' GUY!",
+            emoji: '😉',
+          },
+          {
+            id: 2,
+            author: {
+              name: 'Mark Zuckerberg',
+              avatar: markavatar
+            },
+            content: 'Well done Brazilian guy! I may buy this platform in the future...',
+            emoji: '🤔',
+            emoji2: '👀'
+          },
+          {
+            id: 3,
+            author: {
               name: 'Maurício Nogueira Silvério',
               avatar: avatar
             },
-            content: 'Hey, rommie! Comments section will only be available after our admission :)'
-          }
+            content: 'Hey, rommie! Comments section will only be available after our admission',
+            emoji: '😂',
+            emoji2: '🚀'
+          },
         ]
       },
     ]

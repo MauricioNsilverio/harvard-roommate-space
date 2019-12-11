@@ -24,8 +24,8 @@ function PostComments({ comments }) {
           <p>
             <span>{comment.author.name}</span>
             {comment.content}
-            <Emoji className="emoji" symbol="😉" label="blink" />
-            <Emoji symbol="❤️" label="heart" />
+            <Emoji className="emoji" symbol={comment.emoji} /> 
+            <Emoji symbol={comment.emoji2} />
           </p>
         </div>
       ))}

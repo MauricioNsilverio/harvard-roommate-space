@@ -6,10 +6,8 @@ function Header() {
   return (
     <header>
       <nav>
-        <div>
-        <img src={harvard} alt="logo"/>
-        <span>Harvard University Roommate Space</span>
-        </div>
+          <img src={harvard} alt="logo"/>
+          <span>Harvard Roommate Space</span>
         
         <div>
           <span>Mauricio's Roommate Essay</span>

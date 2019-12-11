@@ -29,8 +29,9 @@ header nav {
   justify-content: space-between;
   align-items: center;
   padding: 0 42px;
+  margin: 0px auto;
   color: #fff;
-  min-width: 980px;
+  max-width: 980px;
   height: 68px;
 }
 
@@ -45,6 +46,7 @@ nav span {
 
 nav > div {
   display: flex;
+  margin-left: 230px;
   align-items: center;
 }
 
@@ -53,7 +55,7 @@ nav > div i {
 }
 
 .post-list {
-  width: 700px;
+  max-width: 700px;
   margin: 0 auto 20px;
 }
 
